@@ -15,6 +15,8 @@ builder.Services.AddDbContext<FilmeContext>(opts => opts.UseMySql(builder.Config
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -53,3 +53,5 @@ C:\Users\Baungartem\source\repos\filmesAPI\filmesAPI\bin\Debug\net6.0\ZstdNet.dl
 C:\Users\Baungartem\source\repos\filmesAPI\filmesAPI\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
 C:\Users\Baungartem\source\repos\filmesAPI\filmesAPI\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\Baungartem\source\repos\filmesAPI\filmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Baungartem\source\repos\filmesAPI\filmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Baungartem\source\repos\filmesAPI\filmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
